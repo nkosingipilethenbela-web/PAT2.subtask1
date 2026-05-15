@@ -12,3 +12,27 @@ Each letter has a unique pattern of dots and dashes:
 - **Dash (-)** – long signal
 - Letters are separated by a space
 - Words are separated by three spaces
+  ## Alphabet
+| Letter | Code | Letter | Code |
+|--------|------|--------|------|
+| A | .- | N | -. |
+| B | -... | O | --- |
+| C | -.-. | P | .--. |
+| D | -.. | Q | --.- |
+| E | . | R | .-. |
+| F | ..-. | S | ... |
+| G | --. | T | - |
+| H | .... | U | ..- |
+| I | .. | V | ...- |
+| J | .--- | W | .-- |
+| K | -.- | X | -..- |
+| L | .-.. | Y | -.-- |
+| M | -- | Z | --.. |
+
+## Example
+**HELLO** = `.... . .-.. .-.. ---`
+
+## References
+- https://en.wikipedia.org/wiki/Morse_code
+- https://www.britannica.com/topic/Morse-Code
+
